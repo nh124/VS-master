@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10292262-5f2d-4210-85c3-8e52e89b4a9d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aAmA4Nv6vddDLZPTpJOtxESrbq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Sorting">
+    <configuration name="Coordinates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coordinates" />
+      <module name="Lab 11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sorting" />
+        <item itemvalue="Application.Coordinates" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10292262-5f2d-4210-85c3-8e52e89b4a9d" name="Default Changelist" comment="" />
+      <created>1586186625747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586186625747</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="994" y="173" key="#Sorting" timestamp="1586209814864">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="994" y="173" key="#Sorting/-1920.0.1536.864/0.0.2560.1080@0.0.2560.1080" timestamp="1586209814864" />
+    <state x="1060" y="294" key="FileChooserDialogImpl" timestamp="1586209708304">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1060" y="294" key="FileChooserDialogImpl/-1920.0.1536.864/0.0.2560.1080@0.0.2560.1080" timestamp="1586209708304" />
+    <state x="956" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1586358125776">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="956" y="362" key="com.intellij.ide.util.TipDialog/-1920.0.1536.864/0.0.2560.1080@0.0.2560.1080" timestamp="1586358125776" />
+    <state x="662" y="114" key="new project wizard" timestamp="1586358168427">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="662" y="114" key="new project wizard/-1920.0.1536.864/0.0.2560.1080@0.0.2560.1080" timestamp="1586358168427" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CoordinatesPanel.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

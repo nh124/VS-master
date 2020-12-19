@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Random Generator">
+    <output-path>$PROJECT_DIR$/out/artifacts/Random_Generator</output-path>
+    <root id="root">
+      <element id="archive" name="Random_Generator.jar">
+        <element id="module-output" name="Random Generator" />
+      </element>
+    </root>
+  </artifact>
+</component>

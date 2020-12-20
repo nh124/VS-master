@@ -10,9 +10,9 @@ public class FacFab {
 
     public int fab(int n,int m){
         int k = 0;
-    n = 0;
-    m = 1;
-    int t = n + m;
+        n = 0;
+        m = 1;
+        int t = n + m;
         for(int i = 0; i < 5; i++){
             k = t + fab(n+1,m+1);
         }
